@@ -3,14 +3,14 @@
 </div>
 
 <div align="center">
-  <h1><b>Pocket Poster</b></h1>
+  <h1><b>Bad Poster</b></h1>
   <p><i>Custom PosterBoard Wallpapers for iOS 17+ · bad_query for iOS 26–27.0b4</i></p>
-  <p>Maintained / iOS 27 port by <a href="https://github.com/Mak5er"><b>Mak5er</b></a></p>
+  <p>Maintained / iOS 27 port by <a href="https://github.com/Mak5er"><b>Mak5er</b></a> / Redesigned by <a href="https://github.com/nxtcoreee3"><b>nxtcoreee3</b></a></p>
 </div>
 
 ## Download
 
-Latest IPA: [**Releases**](https://github.com/Mak5er/Pocket-Poster/releases/latest)
+Latest IPA: [**Releases**](https://github.com/nxtcoreee3/Bad-Poster/releases/latest)
 
 CI builds an unsigned IPA on every push to `main` and publishes a GitHub Release when you push a tag like `v3.2.2` (or run **Release IPA** from Actions).
 
