@@ -1,5 +1,5 @@
 <div align="center">
-   <img width="150" height="150" src="Pocket Poster/Assets.xcassets/AppIcon.appiconset/pocket_poster_transparent.png">
+   <img width="150" height="150" src="Pocket Poster/Assets.xcassets/AppIcon.appiconset/badpostertinted.png">
 </div>
 
 <div align="center">
